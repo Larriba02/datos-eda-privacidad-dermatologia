@@ -116,6 +116,7 @@ las imágenes). Los notebooks esperan `_data/metadata_skin_cancer.csv` y `_data/
 ```
 01_eda.ipynb          análisis exploratorio (tabular e imágenes)
 02_privacidad.ipynb   desidentificación y k-anonimato
+memoria.pdf           memoria del proyecto
 figures/              figuras exportadas
 ```
 
